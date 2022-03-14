@@ -1,4 +1,4 @@
-module go.etcd.io/bbolt
+module github.com/TrueNodes/bbolt
 
 go 1.17
 
