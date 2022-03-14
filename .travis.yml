@@ -4,7 +4,7 @@ go_import_path: github.com/TrueNodes/bbolt
 sudo: false
 
 go:
-- 1.15
+- 1.17.7
 
 before_install:
 - go get -v golang.org/x/sys/unix
