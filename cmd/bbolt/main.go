@@ -18,7 +18,7 @@ import (
 	"unicode/utf8"
 	"unsafe"
 
-	bolt "go.etcd.io/bbolt"
+	bolt "github.com/TrueNodes/bbolt"
 )
 
 var (
